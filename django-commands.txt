@@ -1,4 +1,4 @@
-pip django # устанавливаем django
+pip install django # устанавливаем django
 
 django-admin startproject lesson1 . # Создаем проект Урок1 в корне
 
