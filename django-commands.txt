@@ -3,3 +3,5 @@ pip django # устанавливаем django
 django-admin startproject lesson1 . # Создаем проект Урок1 в корне
 
 python manage.py runserver # Запускаем сервер
+
+python manage.py startapp demo # создать приложение demo
